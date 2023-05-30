@@ -34,6 +34,7 @@ body {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
 }
 
 .qr-code {
